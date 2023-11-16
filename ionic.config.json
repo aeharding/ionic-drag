@@ -1,0 +1,7 @@
+{
+  "name": "ionic-drag",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
